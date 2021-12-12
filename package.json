@@ -1,0 +1,20 @@
+{
+  "name": "ijzn-cli",
+  "version": "1.0.0",
+  "description": "个人开发脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ijzn/ijzn-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ijzn/ijzn-cli/issues"
+  },
+  "homepage": "https://github.com/ijzn/ijzn-cli#readme"
+}

@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "ijzn-cli": "./bin/index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ijzn/ijzn-cli.git"

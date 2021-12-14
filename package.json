@@ -1,13 +1,10 @@
 {
   "name": "ijzn-cli",
-  "version": "1.0.3",
-  "description": "个人开发脚手架",
+  "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "bin": {
-    "ijzn-cli": "bin/index.js"
   },
   "repository": {
     "type": "git",
